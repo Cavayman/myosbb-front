@@ -1,0 +1,40 @@
+.top-report-panel {
+    position: relative;
+    top: -40px;
+}
+
+.mdl-btn {
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-left: 10px
+}
+
+a {
+    cursor: pointer !important;
+}
+
+.mod {
+    width: 265px !important;
+}
+
+#desc {
+    height: 150px;
+}
+
+.dm-left {
+    width: 250px;
+    left: -200%;
+}
+
+.dropdown-menu > p {
+    width: 150px !important;
+    margin: 0px auto;
+    margin-bottom: 5px;
+}
+
+@media screen and (max-width: 800px) {
+    .dm-left {
+        width: 200px;
+        left: -250%;
+    }
+}

@@ -1,0 +1,30 @@
+.top-panel {
+    position: relative;
+    top: -40px;
+}
+
+.block-center {
+    position: relative;
+    top: -40px;
+    max-width: 100%;
+    min-width: 60%;
+    margin-left: 210px;
+
+}
+
+.panel-btn {
+    height: 30px;
+    width: 45px;
+}
+
+#desc {
+    height: 150px;
+}
+
+.to-right {
+    margin-left: 210px;
+}
+
+a {
+    cursor: pointer !important;
+}
